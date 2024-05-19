@@ -1,0 +1,5 @@
+video_path,condition,duration,dyad,mouth_fit,eye_fit,genuineness,category,block,audio_path
+./stimuli/original/24_4.mov,TRUE,8,24,0.151357872,-0.263334073,0.428571429,miss,original,./stimuli/audio/24/4_audio.wav
+./stimuli/mouth/11_8.mov,TRUE,24,11,0.12800017,0.001888068,0.4,miss,mouth,./stimuli/audio/11/8_audio.wav
+./stimuli/nods/18_1_3.mov,fake,9,18,-0.185799397,0.271747154,0.25,cr,nods,./stimuli/audio/18/1_3_audio.wav
+./stimuli/eyes/49_2_5.mov,fake,9,49,-0.089493679,0.280632843,0.285714286,cr,eyes,./stimuli/audio/49/2_5_audio.wav

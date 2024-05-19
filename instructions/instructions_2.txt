@@ -1,0 +1,8 @@
+Votre tâche dans cette expérience est de déterminer dans quelle mesure vous pensez que l'interaction est authentique (c'est-à-dire que les 2 personnes que vous voyez dans un extrait ont réellement eu cette interaction ensemble) ou non-authentique (c'est-à-dire que les 2 personnes que vous voyez dans un extrait ont en fait été enregistrées en train de converser avec d'autres personnes).
+
+En pratique, pour chaque clip vidéo, nous vous demanderons d'évaluer à quel point vous êtes d’accord avec le fait que l’interaction est authentique, sur une échelle allant de 1 (« pas du tout d’accord ») à 10 (« complètement d’accord »).
+
+Pour répondre, essayez d’utiliser toute la plage de valeurs. Par exemple, si vous êtes plutôt d’accord avec le fait que l’interaction est authentique, mais pas complètement d’accord, vous pouvez par exemple noter la vidéo 7 ou 8.  De la même façon, si vous êtes plutôt pas d’accord avec le fait que la vidéo est authentique, mais pas complètement en désaccord, vous pouvez par exemple la noter 3 ou 2. 
+D’autre part, vous verrez parfois des extraits impliquant les mêmes personnes, par exemple disant des mots différents, ou bien qui disent la même chose mais en ne voyant pas la même partie de l’écran. Ces différentes conditions peuvent changer votre jugement d’authenticité : n’essayez pas de répondre la même chose, mais plutôt d’évaluer chaque video indépendamment les unes des autres.
+
+(Appuyez sur un bouton pour continuer)

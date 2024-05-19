@@ -1,0 +1,2 @@
+date,subject,age,sex,trial_num,block_num,block,video_path,audio_path,condition,category,duration,eye_fit,mouth_fit,genuineness,response
+2024-04-19 14:03:17.241517,18,,f/m,1,0,practice,./stimuli/mouth/11_8.mov,./stimuli/audio/11/8_audio.wav,TRUE,miss,24,0.001888068,0.12800017,0.4,

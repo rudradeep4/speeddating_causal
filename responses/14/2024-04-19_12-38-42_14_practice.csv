@@ -1,0 +1,5 @@
+date,subject,age,sex,trial_num,block_num,block,video_path,audio_path,condition,category,duration,eye_fit,mouth_fit,genuineness,response
+2024-04-19 12:38:39.241740,14,21,f,1,0,practice,./stimuli/original/24_4.mov,./stimuli/audio/24/4_audio.wav,TRUE,miss,8,-0.263334073,0.151357872,0.428571429,2
+2024-04-19 12:38:39.241740,14,21,f,2,0,practice,./stimuli/nods/18_1_3.mov,./stimuli/audio/18/1_3_audio.wav,fake,cr,9,0.271747154,-0.185799397,0.25,5
+2024-04-19 12:38:39.241740,14,21,f,3,0,practice,./stimuli/eyes/49_2_5.mov,./stimuli/audio/49/2_5_audio.wav,fake,cr,9,0.280632843,-0.089493679,0.285714286,7
+2024-04-19 12:38:39.242471,14,21,f,4,0,practice,./stimuli/mouth/11_8.mov,./stimuli/audio/11/8_audio.wav,TRUE,miss,24,0.001888068,0.12800017,0.4,3
